@@ -1,0 +1,10 @@
+# Ignore all compiled files
+*.obj
+*.exe
+
+# Ignore backup and temporary files
+*~
+*.tmp
+
+# Ignore media files
+media/*.mp4
